@@ -1,3 +1,4 @@
 {
-  "framework": "html"
+  "buildCommand": "echo 'No build needed for static HTML'",
+  "outputDirectory": "."
 }
