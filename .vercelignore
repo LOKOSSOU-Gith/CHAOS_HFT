@@ -1,0 +1,11 @@
+# Ignore Python and backend folders on Vercel
+backend/
+python/
+mql5/
+tests/
+__pycache__/
+*.py
+*.md
+*.sh
+*.txt
+*.log
